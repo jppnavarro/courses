@@ -1,0 +1,12 @@
+../../.idea/courses.iml
+../../.idea/misc.xml
+../../.idea/modules.xml
+../../.idea/vcs.xml
+../../.idea/workspace.xml
+notMNIST_large/
+notMNIST_small/
+notMNIST.pickle
+notMNIST_large.tar.gz
+notMNIST_small.tar.gz
+
+
